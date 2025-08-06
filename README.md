@@ -1,12 +1,7 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- ANIMATED HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- SECUREROOT LOGO & BRANDING -->
 <p align="center">
-  <img width="220px" src="https://lh3.googleusercontent.com/d/18656N3QLeSe60w8f4dwFRqESt5nEb6qf" alt="SecureRoot Risk Advisory LLP Logo" />
+  <img width="220px" src="https://secureroot.co/_next/image?url=%2Fassets%2Flogo_dark.png&w=384&q=75" alt="SecureRoot Risk Advisory LLP Logo" />
 </p>
 
 <h1 align="center">
