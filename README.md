@@ -1,5 +1,5 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://lh3.googleusercontent.com/d/18656N3QLeSe60w8f4dwFRqESt5nEb6qff" width="100%">
 
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
