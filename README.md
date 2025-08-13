@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SecureRoot Banner](https://media.licdn.com/dms/image/v2/D4D3DAQEuHYc07LdpPw/image-scale_191_1128/image-scale_191_1128/0/1685694277009/secure_root_risk_advisory_llp_cover?e=1755075600&v=beta&t=MSADFmdDUYLBmAokHTIFqRv6Zt0nSs328DCc0qtPXMw)
+![SecureRoot Banner](https://res.cloudinary.com/dgegpymsl/image/upload/v1755081078/secure_root_risk_advisory_llp_cover_kywm4p.jpg)
 
 **Trusted Partner in Cybersecurity, Compliance & Risk Management**
 
